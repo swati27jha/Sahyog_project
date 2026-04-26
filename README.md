@@ -31,3 +31,5 @@ SAHYOG is a centralized platform connecting NGOs, volunteers, donors, and benefi
 ## Team
 SLAY THE BUGS
 
+## Prototype
+The Working Prototype and MVP are hosted at the same URL to demonstrate a production-ready solution.
